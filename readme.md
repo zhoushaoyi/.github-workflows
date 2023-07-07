@@ -6,3 +6,4 @@
 
 .文件传入路径：
 work.py 260行 parser.add_argument('--source', type=str, default=ROOT / 'data/media/277.jpg', help='file/dir/URL/glob/screen/0(webcam)')
+命令行输入python/work.py --source <file>
